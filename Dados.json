@@ -1,0 +1,1667 @@
+[
+  {
+    "modelo": "AT-8X2",
+    "descrição": "A Caixa Ativa dupla AT-8X2 DATREL conta com duplo woofer de 8 polegadas e driver tweeter, com 150W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por controle remoto de autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede. A AT-8X2 conta com entradas tipo P10 e RCA que garantem conectividade com equipamentos como DVD, PC, KARAOKE e microfone (com controle independente) excelente para barzinhos, área de lazer, entre outros eventos. A AT -8X2 conta com alça superior que oferece um conforto na hora do transporte, seu gabinete permite o uso na horizontal e na vertical possibilitando o uso como monitor de palco.",
+    "características_técnicas": {
+      "modelo": "AT-8X2",
+      "versões": "Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "250 W",
+      "alto_falante": "02 x 8\" e TWEETER",
+      "sistema": "2 em 1 - Pedestal ou Retorno",
+      "impedância_entrada": {
+        "LINE": "5K Ohms",
+        "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": [
+        "LINE (P10)",
+        "Auxiliar (RCA)",
+        "Microfone (P10)",
+        "Módulo Multimídia"
+      ],
+      "controle_volume": "Geral e Independente (por canal)",
+      "canais_saída": "LINEOUT (P10)",
+      "tela_metálica_proteção": true,
+      "suporte_pedestal": true,
+      "dimensões": {
+        "produto": "61,5 x 28 x 30,5 cm",
+        "embalagem": "63 x 29 x 32 cm"
+      },
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "padrão_fábrica": "pré-ajustado em 220V",
+      "peso": {
+        "líquido": "10,9 Kg",
+        "bruto": "11,8 Kg"
+      }
+    }
+  },
+  {
+    "modelo": "AT-10X2",
+    "descrição": "A Caixa Ativa dupla AT-10X2 DATREL conta com duplo woofer de 10 polegadas e driver tweeter, com 300W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por controle remoto de autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede. A AT-10X2 conta com entradas tipo P10 e RCA que garantem conectividade com equipamentos como DVD, PC, KARAOKÊ e microfone (com controle independente) excelente para barzinhos, área de lazer, entre outros eventos. A AT -10X2 conta com alça superior que oferece um conforto na hora do transporte, seu gabinete permite o uso na horizontal e na vertical possibilitando o uso como monitor de palco.",
+    "características_técnicas": {
+      "modelo": "AT-10X2",
+      "versões": "Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "300 W",
+      "alto_falante": "02 x 10\" e Driver Titânio",
+      "sistema": "2 em 1 - Pedestal ou Retorno",
+      "impedância_entrada": {
+        "LINE": "5K Ohms",
+        "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": [
+        "LINE (P10)",
+        "Microfone (P10)"
+      ],
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": "LINEOUT (XLR)",
+      "tela_metálica_proteção": true,
+      "suporte_pedestal": true,
+      "dimensões": {
+        "produto": "75,5 x 32,5 x 33,5 cm",
+        "embalagem": "77 x 34 x 35 cm"
+      },
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "padrão_fábrica": "pré-ajustado em 220V",
+      "peso": {
+        "líquido": "17,1 Kg",
+        "bruto": "18,2 Kg"
+      }
+    }
+  },
+  {
+    "modelo": "AT-12X2",
+    "descrição": "A Caixa Ativa dupla AT-12X2 DATREL conta com duplo woofer de 12 polegadas e driver tweeter, com 400W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por controle remoto de autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede. A AT-12X2 conta com entradas tipo P10 e RCA que garantem conectividade com equipamentos como DVD, PC, KARAOKE e microfone (com controle independente) excelente para barzinhos, área de lazer, entre outros eventos. A AT -12X2 conta com alça superior que oferece um conforto na hora do transporte, seu gabinete permite o uso na horizontal e na vertical possibilitando o uso como monitor de palco.",
+    "características_técnicas": {
+      "modelo": "AT-12X2",
+      "versões": "Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "400 W",
+      "alto_falante": "02 x 12\" e Driver Titânio",
+      "sistema": "2 em 1 - Pedestal ou Retorno",
+      "impedância_entrada": {
+        "LINE": "5K Ohms",
+        "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": [
+        "LINE (P10)",
+        "Microfone (P10)"
+      ],
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": "LINEOUT (XLR)",
+      "tela_metálica_proteção": true,
+      "suporte_pedestal": true,
+      "dimensões": {
+        "produto": "91,5 x 42,5 x 50 cm",
+        "embalagem": "93 x 44 x 51 cm"
+      },
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "padrão_fábrica": "pré-ajustado em 220V",
+      "peso": {
+        "líquido": "26,2 Kg",
+        "bruto": "27,7 Kg"
+      }
+    }
+  },
+  {
+    "modelo": "AT-15X2",
+    "descrição": "A Caixa Ativa dupla AT-15X2 DATREL conta com duplo woofer de 15 polegadas e driver titânio, com 500W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por um prático controle remoto que garante autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede. A AT-15X2 conta com entradas tipo P10 que garantem conectividade com equipamentos como DVD, PC, KARAOKE e microfone (com controle independente) perfeita para uso em barzinhos, sem contar que seu gabinete trapezoidal é produzido em MDF, que traz uma maior qualidade e leveza ao produto, essencial na hora do transporte.",
+    "características_técnicas": {
+      "modelo": "AT-15X2",
+      "versões": "Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "500 W",
+      "alto_falante": "02 x 15\" e Driver Titânio",
+      "sistema": "2 em 1 - Pedestal ou Retorno",
+      "impedância_entrada": {
+        "LINE": "5K Ohms",
+        "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": [
+        "LINE (P10)",
+        "Microfone (P10)"
+      ],
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": "LINEOUT (XLR)",
+      "tela_metálica_proteção": true,
+      "suporte_pedestal": true,
+      "dimensões": {
+        "produto": "104 x 45 x 50 cm",
+        "embalagem": "106 x 46 x 51 cm"
+      },
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "padrão_fábrica": "pré-ajustado em 220V",
+      "peso": {
+        "líquido": "36,8 Kg",
+        "bruto": "38,9 Kg"
+      }
+    }
+  },
+{
+    "modelo": "BAS-400",
+    "descricao": "O Amplificador para ContraBaixo BAS-400 400W da DATREL foi desenvolvido para atuar em conjunto com caixas passivas da linha BAS 1X15 ou BAS-4X10 da DATREL, ou com a caixa de sua preferência, desde que suas especificações sejam compatíveis com a configuração do Amplificador. Com gabinete em padrão Rack que facilita sua montagem com demais periféricos a fim de facilitar o transporte no dia a dia, ele conta com a mais alta qualidade e fidelidade em um amplificador para Contra Baixo. Seu sistema foi desenvolvido exclusivamente para reprodução das frequências do seu Contra Baixo com a mais alta fidelidade possível. Pensou em amplificador para contra baixo? DATREL é a escolha!",
+    "caracteristicas_tecnicas": {
+        "potencia": "400 W (4 Ohms)",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "equalizacao_ativa": "03 Vias, sendo: LOW; MID e HIGH",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "canais_saida": [
+            {"PHONE": "Fone de Ouvido (P10 STEREO)"},
+            {"LINEOUT": "XLR Balanceada"},
+            {"Caixa Passiva": "01 SPEAKON (BAS-4X10 ou BAS-1X15 DATREL) no painel traseiro"}
+        ],
+        "dimensoes": {
+            "produto": "8,8 x 48,5 x 31 cm",
+            "embalagem": "11 x 52 x 36 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "6 Kg",
+                "bruto": "6,6 Kg"
+            }
+        }
+    }
+},
+
+{
+    "modelo": "BAS-800",
+    "descricao": "O Amplificador para ContraBaixo BAS-800 800W da DATREL foi desenvolvido para atuar em conjunto com caixas passivas da linha BAS-1X15 e BAS-4X10 da DATREL, ou com as caixas de sua preferência, desde que suas especificações sejam compatíveis com a configuração do Amplificador. Com gabinete em padrão Rack que facilita sua montagem com demais periféricos a fim de facilitar o transporte no dia a dia, ele conta com a mais alta qualidade e fidelidade em um amplificador para Contra Baixo. Seu sistema foi desenvolvido exclusivamente para reprodução das frequências do seu Contra Baixo com a mais alta fidelidade possível. Pensou em amplificador para contra baixo? DATREL é a escolha!",
+    "caracteristicas_tecnicas": {
+        "potencia": "800 W (4 Ohms)",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "equalizacao_ativa": "03 Vias, sendo: LOW; MID e HIGH",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "canais_saida": [
+            {"PHONE": "Fone de Ouvido (P10 STEREO)"},
+            {"LINEOUT": "XLR Balanceada"},
+            {"Caixa Passiva": "01 SPEAKON (BAS-4X10 ou BAS-1X15 DATREL) no painel traseiro"}
+        ],
+        "dimensoes": {
+            "produto": "8,8 x 48,5 x 31 cm",
+            "embalagem": "11 x 52 x 36 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "6,8 Kg",
+                "bruto": "7,4 Kg"
+            }
+        }
+    }
+},
+
+{
+    "modelo": "BAS-60E",
+    "descricao": "O Cubo para Baixo BAS-60 E da DATREL foi desenvolvido para você iniciante no mundo musical. Com dimensões discretas, favoráveis para o transporte no dia a dia, ele conta com a mais alta qualidade em se tratando de cubo para Contra Baixo. Seu Woofer de 8 polegadas, e 60W de potência, foi desenvolvido exclusivamente para reprodução das frequências do seu Contra Baixo com a mais alta qualidade possível. BAS-60E seu início em qualidade!",
+    "caracteristicas_tecnicas": {
+        "versoes": "Estudo",
+        "potencia": "60 W",
+        "alto_falante": "8\" (8 Ohms) Cone Papel",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "saida_phone": "P10 STEREO para fone de ouvido",
+        "saida_line_out": "P10",
+        "equalizacao_ativa": "03 vias, sendo: LOW, MID e HIGH",
+        "tela_protecao": "Metálica frontal",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "dimensoes": {
+            "produto": "36 x 31 x 22 cm",
+            "embalagem": "38 x 32 x 23 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "7,8 Kg",
+                "bruto": "7,8 Kg"
+            }
+        }
+    }
+},
+
+{
+    "modelo": "BAS-60K",
+    "descricao": "O Cubo para Baixo BAS-60K da DATREL foi desenvolvido para você iniciante no mundo musical. Com dimensões discretas, favoráveis para o transporte no dia a dia, com o levíssimo gabinete no estilo 'kick back', que além de conforto, favorece seu ajuste quando necessário. Desenvolvido com a mais alta qualidade em se tratando de cubo para Contra Baixo, o BAS60K da DATREL vem equipado com Woofer de 8 polegadas com cone de alumínio e 60W de potência, que foi desenvolvido exclusivamente para reprodução das frequências do seu Contra Baixo com a mais alta qualidade possível. DATREL, qualidade, performance e melhor custo benefício do mercado.",
+    "caracteristicas_tecnicas": {
+        "versoes": "Estudo (KICKBACK)",
+        "potencia": "60 W",
+        "alto_falante": "8\" (8 Ohms) Cone Alumínio",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "saida_phone": "P10 STEREO para fone de ouvido",
+        "saida_line_out": "P10 STEREO para fone de ouvido",
+        "equalizacao_ativa": "03 vias, sendo: LOW, MID e HIGH",
+        "tela_protecao": "Metálica frontal",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "dimensoes": {
+            "produto": "40 x 32 x 32 cm",
+            "embalagem": "40 x 32 x 32 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "9,7 Kg",
+                "bruto": "10,4 Kg"
+            }
+        }
+    }
+},
+
+{
+    "modelo": "BAS-100",
+    "descricao": "O Cubo para Baixo BAS-100 100W da DATREL foi desenvolvido especialmente para os amantes do mundo musical, em especial músicos baixistas que apreciam requinte e qualidade na reprodução de seus instrumentos. O BAS-100 DATREL possui amplificador de alta tecnologia e qualidade, aliado ao seu poderoso Woofer de 10 polegadas com cone de alumínio que garante expectativas precisas ao seu instrumento. O BAS-100 possui gabinete estilo 'kick back', que além de conforto, favorece seu ajuste quando necessário. Qualidade, performance e melhor custo benefício do mercado.",
+    "caracteristicas_tecnicas": {
+        "versoes": "Estudo",
+        "potencia": "100 W",
+        "alto_falante": "10\" (8 Ohms) Cone Alumínio",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "saida_phone": "P10 STEREO para fone de ouvido",
+        "saida_line_out": "P10 STEREO para fone de ouvido",
+        "equalizacao_ativa": "03 vias, sendo: LOW, MID e HIGH",
+        "tela_protecao": "Metálica frontal",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "dimensoes": {
+            "produto": "43 x 35 x 32 cm",
+            "embalagem": "43 x 35 x 32 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "13,2 Kg",
+                "bruto": "14,0 Kg"
+            }
+        }
+    }
+},
+
+{
+    "modelo": "BAS-200",
+    "descricao": "O Cubo para Baixo BAS-200 200W da DATREL foi desenvolvido especialmente para os amantes do mundo musical, em especial músicos baixistas que apreciam requinte e qualidade na reprodução de seus instrumentos. O BAS-200 DATREL possui amplificador de alta tecnologia e qualidade, aliado ao seu poderoso Woofer de 12 polegadas com cone de alumínio que garante expectativas precisas ao seu instrumento. O BAS-200 possui gabinete estilo 'kick back', que além de conforto, favorece seu ajuste quando necessário. Qualidade, performance e melhor custo benefício do mercado.",
+    "caracteristicas_tecnicas": {
+        "versoes": "Estudo",
+        "potencia": "200 W",
+        "alto_falante": "12\" (8 Ohms) Cone Alumínio",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "saida_phone": "P10 STEREO para fone de ouvido",
+        "saida_line_out": "P10 STEREO para fone de ouvido",
+        "equalizacao_ativa": "03 vias, sendo: LOW, MID e HIGH",
+        "tela_protecao": "Metálica frontal",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "dimensoes": {
+            "produto": "48 x 38 x 33 cm",
+            "embalagem": "48 x 38 x 33 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "19,8 Kg",
+                "bruto": "20,6 Kg"
+            }
+        }
+    }
+},
+
+{
+    "modelo": "BAS-300",
+    "descricao": "O Cubo para Baixo BAS-300 300W da DATREL foi desenvolvido especialmente para os amantes do mundo musical, em especial músicos baixistas que apreciam requinte e qualidade na reprodução de seus instrumentos. O BAS-300 DATREL possui amplificador de alta tecnologia e qualidade, aliado ao seu poderoso Woofer de 15 polegadas com cone de alumínio que garante expectativas precisas ao seu instrumento. O BAS-300 possui gabinete estilo 'kick back', que além de conforto, favorece seu ajuste quando necessário. Qualidade, performance e melhor custo benefício do mercado.",
+    "caracteristicas_tecnicas": {
+        "versoes": "Estudo",
+        "potencia": "300 W",
+        "alto_falante": "15\" (8 Ohms) Cone Alumínio",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "saida_phone": "P10 STEREO para fone de ouvido",
+        "saida_line_out": "P10 STEREO para fone de ouvido",
+        "equalizacao_ativa": "03 vias, sendo: LOW, MID e HIGH",
+        "tela_protecao": "Metálica frontal",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "dimensoes": {
+            "produto": "53 x 40 x 35 cm",
+            "embalagem": "53 x 40 x 35 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "25,5 Kg",
+                "bruto": "26,8 Kg"
+            }
+        }
+    }
+},
+
+{
+    "modelo": "BAS-400W",
+    "descricao": "O Cubo para Baixo BAS-400W 400W da DATREL foi desenvolvido especialmente para os amantes do mundo musical, em especial músicos baixistas que apreciam requinte e qualidade na reprodução de seus instrumentos. O BAS-400W DATREL possui amplificador de alta tecnologia e qualidade, aliado ao seu poderoso Woofer de 15 polegadas com cone de alumínio que garante expectativas precisas ao seu instrumento. O BAS-400W possui gabinete estilo 'kick back', que além de conforto, favorece seu ajuste quando necessário. Qualidade, performance e melhor custo benefício do mercado.",
+    "caracteristicas_tecnicas": {
+        "versoes": "Estudo",
+        "potencia": "400 W",
+        "alto_falante": "15\" (8 Ohms) Cone Alumínio",
+        "sensibilidade_entrada": {
+            "LOW": "60mV",
+            "HIGH": "120mV"
+        },
+        "saida_phone": "P10 STEREO para fone de ouvido",
+        "saida_line_out": "P10 STEREO para fone de ouvido",
+        "equalizacao_ativa": "03 vias, sendo: LOW, MID e HIGH",
+        "tela_protecao": "Metálica frontal",
+        "canais_entrada": [
+            {"HIGH": "P10 (Contra Baixo Passivo)"},
+            {"LOW": "P10 (Contra Baixo Ativo)"}
+        ],
+        "dimensoes": {
+            "produto": "53 x 40 x 35 cm",
+            "embalagem": "53 x 40 x 35 cm",
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem, pré-ajustado em 220V)",
+            "peso": {
+                "liquido": "27,5 Kg",
+                "bruto": "28,6 Kg"
+            }
+        }
+    }
+},
+[
+  {
+      "modelo": "AT15-500",
+      "versões": "Normal ou Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "500 W",
+      "alto_falante": "15\" e Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "impedância_entrada": {
+          "LINE": "5K Ohms",
+          "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": {
+          "1": "LINE (P10)",
+          "2": "Microfone (P10)"
+      },
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": {
+          "1": "LINEOUT (XLR)",
+          "2": "Caixa Passiva 8 Ohms (P10)"
+      },
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "67,5 x 41,5 x 43,2 cm",
+      "dimensões_embalagem": "68 x 46 x 42 cm",
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "peso_líquido": "18,8 Kg",
+      "peso_bruto": "20,2 Kg"
+  },
+  {
+      "modelo": "DA15-500",
+      "potência": "500 W",
+      "alto_falante": "15\" e Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "divisor_frequência": "01 via",
+      "canais_entrada": "(1) SPEAKON, (2) 01 P10",
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "67,5 x 41,5 x 43,2 cm",
+      "dimensões_embalagem": "67,5 x 41,5 x 43,2 cm",
+      "peso_líquido": "17,5 Kg",
+      "peso_bruto": "18,9 Kg"
+  },
+  {
+      "modelo": "AT15-300",
+      "versões": "Normal ou Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "300 W",
+      "alto_falante": "15\" e Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "impedância_entrada": {
+          "LINE": "5K Ohms",
+          "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": {
+          "1": "LINE (P10)",
+          "2": "Microfone (P10)"
+      },
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": {
+          "1": "LINEOUT (XLR)",
+          "2": "Caixa Passiva 8 Ohms (P10)"
+      },
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "66 x 45 x 41 cm",
+      "dimensões_embalagem": "68 x 46 x 42 cm",
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "peso_líquido": "18,8 Kg",
+      "peso_bruto": "20,2 Kg"
+  },
+  {
+      "modelo": "DA15-300",
+      "potência": "300 W",
+      "alto_falante": "15\" e Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "divisor_frequência": "01 via",
+      "canais_entrada": "02 x P10 (8 Ohms)",
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "66 x 45 x 41 cm",
+      "dimensões_embalagem": "68 x 46 x 42 cm",
+      "peso_líquido": "14,5 Kg",
+      "peso_bruto": "15,9 Kg"
+  },
+  {
+      "modelo": "AT12-250",
+      "versões": "Normal ou Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "250 W",
+      "alto_falante": "12\" e TWEETER ou Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "impedância_entrada": {
+          "LINE": "5K Ohms",
+          "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": {
+          "1": "LINE (P10)",
+          "2": "Microfone (P10)"
+      },
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": {
+          "1": "LINEOUT (XLR)",
+          "2": "Caixa Passiva 8 Ohms (P10)"
+      },
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "56,5 x 40,5 x 40,5 cm",
+      "dimensões_embalagem": "58 x 42 x 42 cm",
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "peso_líquido": "15 Kg",
+      "peso_bruto": "16,1 Kg"
+  },
+  {
+      "modelo": "CE-250",
+      "potência": "250 W",
+      "alto_falante": "12\" e TWEETER ou Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "divisor_frequência": "01 via",
+      "canais_entrada": "02 x P10 (8 Ohms)",
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "56,5 x 40,5 x 40,5 cm",
+      "dimensões_embalagem": "58 x 42 x 42 cm",
+      "peso_líquido": "12,3 Kg",
+      "peso_bruto": "13,5 Kg"
+  },
+  {
+      "modelo": "SL-200",
+      "potência": "200 W",
+      "alto_falante": "10\" e TWEETER ou Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "divisor_frequência": "01 via",
+      "canais_entrada": "02 x P10 (8 Ohms)",
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "46 x 32,5 x 33,5 cm",
+      "dimensões_embalagem": "48 x 34 x 35 cm",
+      "peso_líquido": "7,4 Kg",
+      "peso_bruto": "8,2 Kg"
+  },
+  {
+      "modelo": "AT10-200",
+      "versões": "Normal ou Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "200 W",
+      "alto_falante": "10\" e TWEETER ou Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "impedância_entrada": {
+          "LINE": "5K Ohms",
+          "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": {
+          "1": "LINE (P10)",
+          "2": "Microfone (P10)"
+      },
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": {
+          "1": "LINEOUT (XLR)",
+          "2": "Caixa Passiva 8 Ohms (P10)"
+      },
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "46 x 32,5 x 33,5 cm",
+      "dimensões_embalagem": "48 x 34 x 35 cm",
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "peso_líquido": "7,4 Kg",
+      "peso_bruto": "8,2 Kg"
+  },
+  {
+      "modelo": "DA10-200",
+      "potência": "200 W",
+      "alto_falante": "10\" e TWEETER ou Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "divisor_frequência": "01 via",
+      "canais_entrada": "02 x P10 (8 Ohms)",
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "46 x 32,5 x 33,5 cm",
+      "dimensões_embalagem": "48 x 34 x 35 cm",
+      "peso_líquido": "5,9 Kg",
+      "peso_bruto": "6,7 Kg"
+  },
+  {
+      "modelo": "AT8-150",
+      "versões": "Normal ou Bluetooth (Acompanha Controle Remoto do Módulo)",
+      "potência": "150 W",
+      "alto_falante": "08\" e TWEETER ou Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "impedância_entrada": {
+          "LINE": "5K Ohms",
+          "MIC": "200-600 Ohms"
+      },
+      "equalização_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+      "divisor_frequência": "01 via",
+      "canais_entrada": {
+          "1": "LINE (P10)",
+          "2": "Microfone (P10)"
+      },
+      "controle_volume": "USB/Sinal e Microfone",
+      "canais_saída": {
+          "1": "LINEOUT (XLR)",
+          "2": "Caixa Passiva 8 Ohms (P10)"
+      },
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "40,5 x 29 x 30,5 cm",
+      "dimensões_embalagem": "42 x 30,5 x 32 cm",
+      "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+      "peso_líquido": "4,2 Kg",
+      "peso_bruto": "4,9 Kg"
+  },
+  {
+      "modelo": "DA8-150",
+      "potência": "150 W",
+      "alto_falante": "08\" e TWEETER ou Driver Titânio",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "divisor_frequência": "01 via",
+      "canais_entrada": "02 x P10 (8 Ohms)",
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "40,5 x 29 x 30,5 cm",
+      "dimensões_embalagem": "42 x 30,5 x 32 cm",
+      "peso_líquido": "3,6 Kg",
+      "peso_bruto": "4,2 Kg"
+  },
+  {
+      "modelo": "BAS-4X10",
+      "potência": "400 W",
+      "alto_falante": "4X10",
+      "sistema": "2 em 1 (Pedestal ou Retorno)",
+      "divisor_frequência": "01 via",
+      "canais_entrada": "02 x P10 (8 Ohms)",
+      "proteção": "Tela Metálica de Proteção Frontal e Suporte para Pedestal",
+      "dimensões_produto": "56,5 x 67 x 40,5 cm",
+      "dimensões_embalagem": "58 x 68,5 x 42 cm",
+      "peso_líquido": "27,4 Kg",
+      "peso_bruto": "29,8 Kg"
+  },
+  [
+    {
+      "modelo": "GUITAR 1x12",
+      "descricao": "O Cubo de Guitarra GUITAR1x12 profissional é projetado para oferecer um som de alta qualidade para músicos exigentes. Com sua potência de 150 Watts e alto falante de 12 polegadas, ele é capaz de entregar um som poderoso e claro.",
+      "caracteristicas_tecnicas": {
+        "potencia": "150 W",
+        "alto_falante": "12\" (4 Ohms)",
+        "saida_phone": "P10 MONO",
+        "saida_line_out": "P10 MONO",
+        "canais_entrada": "P10",
+        "fusivel_reposicao": "2A",
+        "dimensoes": {
+          "produto": "51 x 52,5 x 23 cm",
+          "embalagem": "53,5 x 53,5 x 28,5 cm",
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "peso": {
+            "liquido": "17 Kg",
+            "bruto": "17,5 Kg"
+          }
+        }
+      }
+    },
+    {
+      "modelo": "GUITAR 2X8",
+      "descricao": "O GUITAR2x8 possui um design compacto e moderno, facilitando o transporte e a utilização em diferentes ambientes. Com uma potência de 100W e dois alto-falantes de 8 polegadas cada, oferece um som limpo e potente, ideal para músicos profissionais e amadores.",
+      "caracteristicas_tecnicas": {
+        "potencia": "100 W",
+        "alto_falante": "2X8 (4 Ohms)",
+        "saida_phone": "P10 MONO",
+        "saida_line_out": "P10 MONO",
+        "canais_entrada": "P10",
+        "fusivel_reposicao": "2A",
+        "dimensoes": {
+          "produto": "51 x 52,5 x 23 cm",
+          "embalagem": "42 x 53,5 x 28,5 cm",
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "peso": {
+            "liquido": "15,7 Kg",
+            "bruto": "16,2 Kg"
+          }
+        }
+      }
+    },
+    {
+      "modelo": "GUITAR-30",
+      "descricao": "É sempre bom encontrar produtos de qualidade para iniciantes, principalmente quando se trata de um instrumento musical como a guitarra. O Cubo de Guitarra GUITAR30 oferece boa qualidade de som, fácil utilização e recursos ideais para ensaios e aulas.",
+      "caracteristicas_tecnicas": {
+        "potencia": "30 W",
+        "alto_falante": "8\" (8 Ohms) Cone Papel",
+        "canal_entrada": "Entrada para Guitarra",
+        "saida_phone": "P10 STEREO para fone de ouvido",
+        "ajustes": {
+          "distorcao": "GAIN, BOOST SELECT e LEVEL",
+          "equalizacao": "BASS, MIDLE e TREBLE"
+        },
+        "tela_protecao": "Metálica frontal",
+        "dimensoes": {
+          "produto": "33,5 x 32,5 x 17,5 cm",
+          "embalagem": "35 x 34 x 19 cm",
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "peso": {
+            "liquido": "6,5 Kg",
+            "bruto": "7,0 Kg"
+          }
+        }
+      }
+    },
+    [
+      {
+          "modelo": "PA-20.0",
+          "potencia": "2.000 W (1.000 por canal)",
+          "conectoresEntradaSaidaSinal": "P10",
+          "conectoresSaida": "BORN",
+          "sensibilidadeEntrada": "LINE: 775 mV",
+          "controleVolume": "Canais Independentes",
+          "indicacaoUso": "FULL-RANGE: 04 Caixas Acústicas com AF de 12\", 15\" ou 18\" (500 W por alto falante); 02 por canal em paralelo",
+          "dimensoesProduto": {
+              "altura": "8,8 cm",
+              "largura": "48,5 cm",
+              "profundidade": "41,5 cm"
+          },
+          "dimensoesEmbalagem": {
+              "altura": "11 cm",
+              "largura": "52 cm",
+              "profundidade": "44 cm"
+          },
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "padraoFabrica": "pré-ajustado em 220V",
+          "pesoLiquido": "11,7 Kg",
+          "pesoBruto": "12,4 Kg",
+          "sobre": [
+              "O Amplificador de Potência PA-20.0 DATREL conta com 2000W de potência, e tecnologia Toroidal que entrega uma melhor eficiência energética para seus componentes proporcionando o máximo rendimento possível.",
+              "O PA-20.0 pode ser amplamente usado em sistemas de som profissionais com aplicações nas mais diversas áreas, com resposta de frequência FULL RANGE excelente opção para DJS, eventos como festas em geral, igrejas, palestras, convenções, casa de shows, auditórios e projetos de sonorização de pequeno, médio e grande porte onde se exige qualidade e desempenho por longas horas graças ao seu sistema de ventilação forçada.",
+              "O Amplificador PA-20.0 DATREL conta com sistema de proteção contra curto-circuito acidental nos canais de saída, com indicação por LEDs (verde que indica presença de sinal, e vermelho que indica CLIP e OVERLOAD) e controle independente dos canais A e B que garante uma melhor calibragem na entrega do canal.",
+              "Potência e qualidade para seu evento? DATREL é a escolha!"
+          ]
+      },
+      {
+          "modelo": "PA-10.000",
+          "potencia": "1.000 W",
+          "conectoresEntradaSaidaSinal": "P10",
+          "conectoresSaida": "BORN",
+          "sensibilidadeEntrada": "LINE: 775 mV",
+          "controleVolume": "Canais Independentes",
+          "indicacaoUso": "FULL-RANGE: 04 Caixas Acústicas com AF de 10\", 12\" ou 15\" (250 W por alto falante); 02 por canal em paralelo",
+          "dimensoesProduto": {
+              "altura": "8,8 cm",
+              "largura": "48,5 cm",
+              "profundidade": "41,5 cm"
+          },
+          "dimensoesEmbalagem": {
+              "altura": "11 cm",
+              "largura": "52 cm",
+              "profundidade": "44 cm"
+          },
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "padraoFabrica": "pré-ajustado em 220V",
+          "pesoLiquido": "9,2 Kg",
+          "pesoBruto": "9,9 Kg",
+          "sobre": [
+              "O Amplificador de Potência PA-10.000 DATREL conta com 1000W de potência, sendo amplamente usado em sistemas de som profissionais com aplicações nas mais diversas áreas, com resposta de frequência FULL RANGE excelente opção para eventos como festas em geral, igrejas, palestras, convenções, casa de shows, auditórios, DJS e projetos de sonorização de pequeno, médio e grande porte onde se exige qualidade e desempenho por longas horas graças ao seu sistema de ventilação forçada.",
+              "O Amplificador PA-10.000 DATREL conta com sistema de proteção contra curto-circuito acidental nos canais de saída, com indicação por LEDs (verde que indica presença de sinal, e vermelho que indica CLIP e OVERLOAD) e controle independente dos canais A e B que garante uma melhor calibragem na entrega do canal.",
+              "Quer potência e qualidade para seu evento? DATREL é a escolha!"
+          ]
+      },
+      {
+          "modelo": "PA-8.000",
+          "potencia": "800 W em 4 Ohms (400 por canal)",
+          "conectoresEntradaSaidaSinal": "P10",
+          "conectoresSaida": "BORN",
+          "sensibilidadeEntrada": "LINE: 775 mV",
+          "controleVolume": "Canais Independentes",
+          "indicacaoUso": "FULL-RANGE: 04 Caixas Acústicas com AF de 10\", 12\" ou 15\" (200 W por alto falante); 02 por canal em paralelo",
+          "dimensoesProduto": {
+              "altura": "8,8 cm",
+              "largura": "48,5 cm",
+              "profundidade": "41,5 cm"
+          },
+          "dimensoesEmbalagem": {
+              "altura": "11 cm",
+              "largura": "52 cm",
+              "profundidade": "44 cm"
+          },
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "padraoFabrica": "pré-ajustado em 220V",
+          "pesoLiquido": "9 Kg",
+          "pesoBruto": "9,7 Kg",
+          "sobre": [
+              "O Amplificador de Potência PA-8.000 DATREL conta com 800W de potência, sendo amplamente usado em sistemas de som profissionais com aplicações nas mais diversas áreas, com resposta de frequência FULL RANGE excelente opção para eventos como festas em geral, igrejas, palestras, convenções, casa de shows, auditórios, DJS e projetos de sonorização de pequeno, médio e grande porte onde se exige qualidade e desempenho por longas horas graças ao seu sistema de ventilação forçada.",
+              "O Amplificador PA-8.000 DATREL conta com sistema de proteção contra curto-circuito acidental nos canais de saída, com indicação por LEDs (verde que indica presença de sinal, e vermelho que indica CLIP e OVERLOAD) e controle independente dos canais A e B que garante uma melhor calibragem na entrega do canal.",
+              "Potência e qualidade para seu evento? DATREL é a escolha!"
+          ]
+      },
+      {
+          "modelo": "PA-5.000",
+          "potencia": "600 W",
+          "conectoresEntradaSaidaSinal": "P10",
+          "conectoresSaida": "04 JACK P10",
+          "sensibilidadeEntrada": "LINE: 775 mV",
+          "controleVolume": "Canais Independentes",
+          "indicacaoUso": "FULL-RANGE: 04 Caixas Acústicas com AF de 8\", 10\" ou 12\" (150 W por alto falante); 02 por canal em paralelo",
+          "dimensoesProduto": {
+              "altura": "8,8 cm",
+              "largura": "48,5 cm",
+              "profundidade": "33 cm"
+          },
+          "dimensoesEmbalagem": {
+              "altura": "8,8 cm",
+              "largura": "48,5 cm",
+              "profundidade": "33 cm"
+          },
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "padraoFabrica": "pré-ajustado em 220V",
+          "pesoLiquido": "7,3 Kg",
+          "pesoBruto": "7,9 Kg",
+          "sobre": [
+              "O Amplificador de Potência PA-5.000 DATREL conta com 600W de potência, sendo amplamente usado em sistemas de som profissionais com aplicações nas mais diversas áreas, com resposta de frequência FULL RANGE excelente opção para eventos como festas em geral, igrejas, palestras, convenções, casa de shows, auditórios, DJS e projetos de sonorização de pequeno, médio e grande porte onde se exige qualidade e desempenho por longas horas graças ao seu sistema de ventilação forçada.",
+              "O Amplificador PA-5.000 DATREL conta com sistema de proteção contra curto-circuito acidental nos canais de saída, com indicação por LEDs (verde que indica presença de sinal, e vermelho que indica CLIP e OVERLOAD) e controle independente dos canais A e B que garante uma melhor calibragem na entrega do canal.",
+              "Potência e qualidade para seu evento? DATREL é a escolha!"
+          ]
+      },
+      {
+          "modelo": "PA-3.000",
+          "potencia": "400 W",
+          "conectoresEntradaSaidaSinal": "P10",
+          "conectoresSaida": "04 JACK P10",
+          "sensibilidadeEntrada": "LINE: 775 mV",
+          "controleVolume": "Canais Independentes",
+          "indicacaoUso": "FULL-RANGE: 02 Caixas Acústicas com AF de 8\" ou 10\" (100 W por alto falante); 02 por canal em paralelo",
+          "dimensoesProduto": {
+              "altura": "8,8 cm",
+              "largura": "32 cm",
+              "profundidade": "25 cm"
+          },
+          "dimensoesEmbalagem": {
+              "altura": "8,8 cm",
+              "largura": "32 cm",
+              "profundidade": "25 cm"
+          },
+          "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+          "padraoFabrica": "pré-ajustado em 220V",
+          "pesoLiquido": "4,5 Kg",
+          "pesoBruto": "5,1 Kg",
+          "sobre": [
+              "O Amplificador de Potência PA-3.000 DATREL conta com 400W de potência, sendo amplamente usado em sistemas de som profissionais com aplicações nas mais diversas áreas, com resposta de frequência FULL RANGE excelente opção para eventos como festas em geral, igrejas, palestras, convenções, casa de shows, auditórios, DJS e projetos de sonorização de pequeno, médio e grande porte onde se exige qualidade e desempenho por longas horas graças ao seu sistema de ventilação forçada.",
+              "O Amplificador PA-3.000 DATREL conta com sistema de proteção contra curto-circuito acidental nos canais de saída, com indicação por LEDs (verde que indica presença de sinal, e vermelho que indica CLIP e OVERLOAD) e controle independente dos canais A e B que garante uma melhor calibragem na entrega do canal.",
+              "Potência e qualidade para seu evento? DATREL é a escolha!"
+          ]
+      },
+      [
+        {
+            "modelo": "HDSD-200",
+            "potencia": "200 W - 4 Ohms",
+            "conectividade": "Bluetooth, Pendrive, Rádio FM",
+            "entradaMicrofone": "P10",
+            "impedanciaEntrada": {
+                "LINE": "5K Ohms",
+                "MIC": "600 Ohms"
+            },
+            "sensibilidadeEntrada": {
+                "LINE": "500mV",
+                "MIC": "35 mV"
+            },
+            "canaisEntrada": "02 (Microfone P10, Módulo Multimídia)",
+            "inputs": "AUX 1 e AUX 2 (RCA)",
+            "lineout": "RCA (STEREO)",
+            "outputs": "02 x P10 (8 Ohms)",
+            "indicacaoUso": [
+                "Toca 02 AF 8\" ou 10\" de 100 W - 8 Ohms",
+                "Toca 08 AF 4\" ou 6\" de 25 W - 8 Ohms"
+            ],
+            "dimensoesProduto": {
+                "altura": "7,5 cm",
+                "largura": "20,3 cm",
+                "profundidade": "24,5 cm"
+            },
+            "dimensoesEmbalagem": {
+                "altura": "10 cm",
+                "largura": "22 cm",
+                "profundidade": "28 cm"
+            },
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+            "padraoFabrica": "pré-ajustado em 220V",
+            "pesoLiquido": "3 Kg",
+            "pesoBruto": "3,2 Kg",
+            "sobre": [
+                "O Amplificador HDSD-200 de 200W da DATREL é ideal para sonorização de ambientes diversos, oferecendo conectividade Bluetooth, Pendrive e Rádio FM. Compacto e silencioso, é perfeito para uso profissional ou doméstico."
+            ]
+        },
+        {
+            "modelo": "HDSD-100",
+            "potencia": "100 W (4 Ohms)",
+            "conectividade": "Bluetooth, Pendrive, Rádio FM",
+            "entradaMicrofone": "P10",
+            "impedanciaEntrada": "LINE e MIC",
+            "sensibilidadeEntrada": "LINE e MIC",
+            "canaisEntrada": "03 (Microfone P10, Módulo Multimídia, AUX 1 e AUX 2)",
+            "canaisSaida": "03 (LINEOUT RCA, OUTPUTS 02 x P10)",
+            "indicacaoUso": [
+                "Toca 02 AF 8\" ou 10\" de 50 W (8 Ohms)",
+                "Toca 04 AF 6\" ou 8\" de 25 W (8 Ohms)",
+                "Toca 08 AF 4\" ou 6\" de 12 W (8 Ohms)"
+            ],
+            "dimensoesProduto": {
+                "altura": "7,5 cm",
+                "largura": "20,3 cm",
+                "profundidade": "24,5 cm"
+            },
+            "dimensoesEmbalagem": {
+                "altura": "10 cm",
+                "largura": "22 cm",
+                "profundidade": "28 cm"
+            },
+            "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+            "padraoFabrica": "pré-ajustado em 220V",
+            "pesoLiquido": "3 Kg",
+            "pesoBruto": "3,2 Kg",
+            "sobre": [
+                "O Amplificador HDSD-100 de 100W da DATREL é ideal para sonorização de ambientes diversos, oferecendo conectividade Bluetooth, Pendrive e Rádio FM. Compacto e silencioso, é perfeito para uso profissional ou doméstico."
+            ]
+        },
+        [
+          {
+              "modelo": "HDSD-500",
+              "potencia": "250 W",
+              "conectividade": "Bluetooth, Pendrive, Rádio FM",
+              "canaisEntrada": {
+                  "01": "Auxiliar (RCA) e LINE/KEY (P10)",
+                  "02": "Guitarra HIGH/LOW (P10)",
+                  "03": "Módulo Multimídia",
+                  "04 e 05": "Microfone (P10)"
+              },
+              "controleVolume": "Geral e Independente (por canal)",
+              "canaisSaida": {
+                  "01": "LINEOUT (P10)",
+                  "02": "Caixa Passiva 8 Ohms (02 x P10) painel traseiro"
+              },
+              "indicacaoUso": [
+                  "Toca 02 CE-250 DATREL"
+              ],
+              "dimensoesProduto": {
+                  "altura": "12,8 cm",
+                  "largura": "46 cm",
+                  "profundidade": "25 cm"
+              },
+              "dimensoesEmbalagem": {
+                  "altura": "17 cm",
+                  "largura": "48 cm",
+                  "profundidade": "28 cm"
+              },
+              "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+              "pesoLiquido": "7,2 Kg",
+              "pesoBruto": "7,7 Kg",
+              "sobre": [
+                  "O Cabeçote Amplificador HDSD-500 de 250W da DATREL é ideal para conectar instrumentos musicais ou ouvir aquela música que tanto gosta.",
+                  "O Amplificador HDSD-500 dispensa o uso de outros meios de amplificação ou pré-amplificadores, conta com saída para 02 caixas acústicas, possui entradas para Guitarra, teclado, DVD, PC, Microfones, Smartphones com fio ou sem fio via conexão Bluetooth com controle remoto, Smart TVs (desde que disponível conexão Bluetooth, para saber consulte manual de instruções da sua TV), o HDSD-500 é perfeito para seus eventos.",
+                  "Além disso, o HDSD-500 possui conexão de Pendrive e Rádio FM, que garante uma ótima aplicação em uso doméstico.",
+                  "O HDSD-500 é leve, robusto e silencioso, pois não utiliza cooler de ventilação por ser um Amplificador moderno que consegue entregar toda sua potência sem danificar seus componentes com superaquecimento.",
+                  "O HDSD-500 é perfeito para nossas caixas acústicas CE 12.250 da DATREL, pois trazem as especificações ideais para o rendimento do Amplificador.",
+                  "Procurando o melhor Amplificador Multiúso? O HDSD-500 DATREL, a escolha certa!"
+              ]
+          },
+          {
+              "modelo": "HDSD-700",
+              "potencia": "350 W",
+              "conectividade": "Bluetooth, Pendrive, Rádio FM",
+              "canaisEntrada": {
+                  "01": "Auxiliar (RCA) e LINE/KEY (P10)",
+                  "02": "Guitarra HIGH/LOW (P10)",
+                  "03": "Contra Baixo (P10)",
+                  "04": "Módulo Multimídia",
+                  "05 e 06": "Microfone (P10)"
+              },
+              "controleVolume": "Geral e Independente (por canal)",
+              "canaisSaida": {
+                  "01": "LINEOUT (P10)",
+                  "02": "Caixa Passiva 8 Ohms (02 x P10) painel traseiro"
+              },
+              "indicacaoUso": [
+                  "Toca 02 CE-250 DATREL"
+              ],
+              "dimensoesProduto": {
+                  "altura": "12,8 cm",
+                  "largura": "52,5 cm",
+                  "profundidade": "25 cm"
+              },
+              "dimensoesEmbalagem": {
+                  "altura": "17 cm",
+                  "largura": "54 cm",
+                  "profundidade": "28 cm"
+              },
+              "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+              "padraoFabrica": "pré-ajustado em 220V",
+              "pesoLiquido": "7,6 Kg",
+              "pesoBruto": "8,1 Kg",
+              "sobre": [
+                  "O Cabeçote Amplificador HDSD-700 de 350W da DATREL é ideal para conectar instrumentos musicais ou ouvir aquela música que tanto gosta.",
+                  "O Amplificador HDSD-700 dispensa o uso de outros meios de amplificação ou pré-amplificadores, conta com saída para 02 caixas acústicas, possui entradas para Guitarra, teclado, DVD, PC, Microfones, Smartphones com fio ou sem fio via conexão Bluetooth com controle remoto, Smart TVs (desde que disponível conexão Bluetooth, para saber consulte manual de instruções da sua TV), o HDSD-700 é perfeito para seus eventos.",
+                  "Além disso, o HDSD-700 possui conexão de Pendrive e Rádio FM, que garante uma ótima aplicação em uso doméstico.",
+                  "O HDSD-700 é leve, robusto e silencioso, pois não utiliza cooler de ventilação por ser um Amplificador moderno que consegue entregar toda sua potência sem danificar seus componentes com superaquecimento.",
+                  "O HDSD-700 é perfeito para nossas caixas acústicas DA15-300 da DATREL, pois trazem as especificações ideais para o rendimento do Amplificador.",
+                  "Procurando o melhor Amplificador Multiúso? O HDSD-700 DATREL, a escolha certa!"
+              ]
+          },
+          [
+            {
+                "modelo": "AT-8X2",
+                "potencia": "150 W",
+                "conectividade": "Bluetooth, Pendrive, Cartões SD, Rádio FM",
+                "altoFalante": "02 x 8\" e TWEETER",
+                "sistema2em1": "Pedestal ou Retorno",
+                "impedanciaEntrada": {
+                    "LINE": "5K Ohms",
+                    "MIC": "200-600 Ohms"
+                },
+                "equalizacaoAtiva": "03 vias (Agudo, Médio e Grave)",
+                "divisorFrequencia": "01 via",
+                "canaisEntrada": {
+                    "01": "LINE (P10)",
+                    "02": "Auxiliar (RCA)",
+                    "03": "Microfone (P10)",
+                    "04": "Módulo Multimídia"
+                },
+                "controleVolume": "Geral e Independente (por canal)",
+                "canaisSaida": "LINEOUT (P10)",
+                "telaMetalicaProtecaoFrontal": "Sim",
+                "suportePedestal": "Sim",
+                "dimensoesProduto": {
+                    "altura": "61,5 cm",
+                    "largura": "28 cm",
+                    "profundidade": "30,5 cm"
+                },
+                "dimensoesEmbalagem": {
+                    "altura": "63 cm",
+                    "largura": "29 cm",
+                    "profundidade": "32 cm"
+                },
+                "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                "padraoFabrica": "pré-ajustado em 220V",
+                "pesoLiquido": "10,9 Kg",
+                "pesoBruto": "11,8 Kg",
+                "sobre": [
+                    "A Caixa Ativa dupla AT-8X2 DATREL conta com duplo woofer de 8 polegadas e driver tweeter, com 150W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por controle remoto de autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede.",
+                    "A AT-8X2 conta com entradas tipo P10 e RCA que garantem conectividade com equipamentos como DVD, PC, KARAOKE e microfone (com controle independente) excelente para barzinhos, área de lazer, entre outros eventos.",
+                    "A AT -8X2 conta com alça superior que oferece um conforto na hora do transporte, seu gabinete permite o uso na horizontal e na vertical possibilitando o uso como monitor de palco.",
+                    "Com a caixa ativa dupla AT-8X2 DATREL o sucesso é garantido em dobro!"
+                ]
+            },
+            {
+                "modelo": "AT-10X2",
+                "potencia": "300 W",
+                "conectividade": "Bluetooth, Pendrive, Cartões SD, Rádio FM",
+                "altoFalante": "02 x 10\" e Driver Titânio",
+                "sistema2em1": "Pedestal ou Retorno",
+                "impedanciaEntrada": {
+                    "LINE": "5K Ohms",
+                    "MIC": "200-600 Ohms"
+                },
+                "equalizacaoAtiva": "03 vias (Agudo, Médio e Grave)",
+                "divisorFrequencia": "01 via",
+                "canaisEntrada": {
+                    "01": "LINE (P10)",
+                    "02": "Microfone (P10)"
+                },
+                "controleVolume": "USB/Sinal e Microfone",
+                "canaisSaida": "LINEOUT (XLR)",
+                "telaMetalicaProtecaoFrontal": "Sim",
+                "suportePedestal": "Sim",
+                "dimensoesProduto": {
+                    "altura": "75,5 cm",
+                    "largura": "32,5 cm",
+                    "profundidade": "33,5 cm"
+                },
+                "dimensoesEmbalagem": {
+                    "altura": "77 cm",
+                    "largura": "34 cm",
+                    "profundidade": "35 cm"
+                },
+                "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                "padraoFabrica": "pré-ajustado em 220V",
+                "pesoLiquido": "17,1 Kg",
+                "pesoBruto": "18,2 Kg",
+                "sobre": [
+                    "A Caixa Ativa dupla AT-10X2 DATREL conta com duplo woofer de 10 polegadas e driver tweeter, com 300W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por controle remoto de autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede.",
+                    "A AT-10X2 conta com entradas tipo P10 e RCA que garantem conectividade com equipamentos como DVD, PC, KARAOKE e microfone (com controle independente) excelente para barzinhos, área de lazer, entre outros eventos.",
+                    "A AT -10X2 conta com alça superior que oferece um conforto na hora do transporte, seu gabinete permite o uso na horizontal e na vertical possibilitando o uso como monitor de palco."
+                ]
+            },
+            {
+                "modelo": "AT-12X2",
+                "potencia": "400 W",
+                "conectividade": "Bluetooth, Pendrive, Cartões SD, Rádio FM",
+                "altoFalante": "02 x 12\" e Driver Titânio",
+                "sistema2em1": "Pedestal ou Retorno",
+                "impedanciaEntrada": {
+                    "LINE": "5K Ohms",
+                    "MIC": "200-600 Ohms"
+                },
+                "equalizacaoAtiva": "03 vias (Agudo, Médio e Grave)",
+                "divisorFrequencia": "01 via",
+                "canaisEntrada": {
+                    "01": "LINE (P10)",
+                    "02": "Microfone (P10)"
+                },
+                "controleVolume": "USB/Sinal e Microfone",
+                "canaisSaida": "LINEOUT (XLR)",
+                "telaMetalicaProtecaoFrontal": "Sim",
+                "suportePedestal": "Sim",
+                "dimensoesProduto": {
+                    "altura": "91,5 cm",
+                    "largura": "42,5 cm",
+                    "profundidade": "50 cm"
+                },
+                "dimensoesEmbalagem": {
+                    "altura": "93 cm",
+                    "largura": "44 cm",
+                    "profundidade": "51 cm"
+                },
+                "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                "padraoFabrica": "pré-ajustado em 220V",
+                "pesoLiquido": "26,2 Kg",
+                "pesoBruto": "27,7 Kg",
+                "sobre": [
+                    "A Caixa Ativa dupla AT-12X2 DATREL conta com duplo woofer de 12 polegadas e driver tweeter, com 400W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por controle remoto de autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede.",
+                    "A AT-12X2 conta com entradas tipo P10 e RCA que garantem conectividade com equipamentos como DVD, PC, KARAOKE e microfone (com controle independente) excelente para barzinhos, área de lazer, entre outros eventos.",
+                    "A AT-12X2 conta com alça superior que oferece um conforto na hora do transporte, seu gabinete permite o uso na horizontal e na vertical possibilitando o uso como monitor de palco.",
+                    "Com a caixa ativa dupla AT-12X2 DATREL o sucesso é garantido em dobro!"
+                ]
+            },
+            {
+                "modelo": "AT-15X2",
+                "potencia": "500 W",
+                "conectividade": "Bluetooth, Pendrive, Cartões SD, Rádio FM",
+                "altoFalante": "02 x 15\" e Driver Titânio",
+                "sistema2em1": "Pedestal ou Retorno",
+                "impedanciaEntrada": {
+                    "LINE": "5K Ohms",
+                    "MIC": "200-600 Ohms"
+                },
+                "equalizacaoAtiva": "03 vias (Agudo, Médio e Grave)",
+                "divisorFrequencia": "01 via",
+                "canaisEntrada": {
+                    "01": "LINE (P10)",
+                    "02": "Microfone (P10)"
+                },
+                "controleVolume": "USB/Sinal e Microfone",
+                "canaisSaida": "LINEOUT (XLR)",
+                "telaMetalicaProtecaoFrontal": "Sim",
+                "suportePedestal": "Sim",
+                "dimensoesProduto": {
+                    "altura": "104 cm",
+                    "largura": "45 cm",
+                    "profundidade": "50 cm"
+                },
+                "dimensoesEmbalagem": {
+                    "altura": "106 cm",
+                    "largura": "46 cm",
+                    "profundidade": "51 cm"
+                },
+                "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                "padraoFabrica": "pré-ajustado em 220V",
+                "pesoLiquido": "36,8 Kg",
+                "pesoBruto": "38,9 Kg",
+                "sobre": [
+                    "A Caixa Ativa dupla AT-15X2 DATREL conta com duplo woofer de 15 polegadas e driver titânio, com 500W de potência e módulo multimídia (conexão via Bluetooth, entrada para Pendrive, Cartões SD e Rádio FM), tudo controlado por um prático controle remoto que garante autonomia e praticidade em instalações onde não se permite acesso ao módulo multimídia, como, por exemplo, pedestais de parede.",
+                    "A AT-15X2 conta com entradas tipo P10 que garantem conectividade com equipamentos como DVD, PC, KARAOKE e microfone (com controle independente) perfeita para uso em barzinhos, sem contar que seu gabinete trapezoidal é produzido em MDF, que traz uma maior qualidade e leveza ao produto, essencial na hora do transporte.",
+                    "Com a caixa ativa dupla AT-15X2 DATREL o sucesso é garantido em dobro!"
+                ]
+            },
+            {
+              "kits": [
+                  {
+                      "nome_kit": "Kit BAS800 + BAS-4X10 + BAS-1X15",
+                      "descricao": "O Kit BAS800 é um poderoso e versátil rig de baixo que oferece uma ampla gama de opções tonais para qualquer estilo de música. O cabeçote BAS800 fornece 800 watts de potência e possui EQ e controles de compressão para moldar seu som. As caixas BAS-4X10 e BAS-1X15 são projetados para fornecer graves nítidos e fortes com bastante baque de graves. Juntos, eles oferecem um som de baixo poderoso e responsável que corta qualquer mixagem. Esteja você tocando em um pequeno clube ou em um grande palco de festival, o Kit BAS800 tem o poder e a versatilidade de que você precisa para fornecer tons graves de alto nível.",
+                      "componentes": [
+                          {
+                              "nome": "BAS800",
+                              "caracteristicas_tecnicas": {
+                                  "modelo": "BAS-800",
+                                  "potencia": "800 W (4 Ohms)",
+                                  "canais_de_entrada": "02, sendo: (1) HIGH: P10 (Contra Baixo Passivo), (2) LOW: P10 (Contra Baixo Ativo)",
+                                  "sensibilidade_de_entrada": "LOW e HIGH",
+                                  "canais_de_saida": "03, sendo: (1) PHONE: Fone de Ouvido (P10 STEREO), (2) LINEOUT: XLR Balanceada, (3) Caixa Passiva: 01 SPEAKON (BAS-4X10 ou BAS-1X15 DATREL) no painel traseiro",
+                                  "equalizacao_ativa": "03 Vias, sendo: (1) LOW; MID e HIGH",
+                                  "dimensoes_aproximadas": {
+                                      "produto": "8,8 x 48,5 x 31 cm",
+                                      "embalagem": "11 x 52 x 36 cm"
+                                  },
+                                  "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                                  "padrao_de_fabrica": "pré-ajustado em 220V",
+                                  "peso": {
+                                      "liquido": "6,8 Kg",
+                                      "bruto": "7,4 Kg"
+                                  }
+                              }
+                          },
+                          {
+                              "nome": "BAS-4X10",
+                              "caracteristicas_tecnicas": {
+                                  "modelo": "BAS-4X10",
+                                  "potencia": "400 W",
+                                  "alto_falante": "04 x 10\" (8 Ohms) Cone Alumínio",
+                                  "entrada": "SPEAKON (8 Ohms)",
+                                  "tela_metalica_de_protecao_frontal": true,
+                                  "dimensoes_aproximadas": {
+                                      "produto": "61 x 65 x 60 cm",
+                                      "embalagem": "63 x 66 x 61 cm"
+                                  },
+                                  "peso": {
+                                      "liquido": "23,5 Kg",
+                                      "bruto": "24,7 Kg"
+                                  }
+                              }
+                          },
+                          {
+                              "nome": "BAS-1X15",
+                              "caracteristicas_tecnicas": {
+                                  "modelo": "BAS-1X15",
+                                  "potencia": "300 W",
+                                  "alto_falante": "01 x 15\" (8 Ohms) Cone Alumínio",
+                                  "entrada": "SPEAKON (8 Ohms)",
+                                  "tela_metalica_de_protecao_frontal": true,
+                                  "dimensoes_aproximadas": {
+                                      "produto": "61 x 65 x 60 cm",
+                                      "embalagem": "63 x 66 x 61 cm"
+                                  },
+                                  "peso": {
+                                      "liquido": "21,5 Kg",
+                                      "bruto": "22,7 Kg"
+                                  }
+                              }
+                          }
+                      ]
+                  },
+                  {
+                      "nome_kit": "Kit BAS400 + BAS-4X10",
+                      "descricao": "Combo BAS 400 e 4X10 da DATREL é um sistema de amplificação de baixa frequência que consiste no amplificador BAS 400 e na caixa passiva 4X10 equipado com quatro alto-falantes de 10 polegadas. É uma ótima opção para músicos e bandas que precisam de um sistema de amplificação de baixo portátil e fácil de usar. O amplificador BAS 400 tem potência de 400 watts RMS em 4 Ohms e é equipado com um pré-amplificador de 3 bandas para ajustar o som de acordo com as preferências do usuário. Ele também tem um loop de efeitos e uma saída de linha equilibrada para conexão com mesas de som ou gravação. A caixa passiva 4X10 é equipado com quatro alto-falantes de alumínio de 10 polegadas e é construído em compensado de alta densidade para maior durabilidade e resistência aos impactos. A caixa passiva 4×10 tem uma impedância de 4 Ohms e pode ser conectado diretamente ao amplificador BAS 400 para obter um som potente e de alta qualidade. No geral, o combo BAS 400 e 4X10 da DATREL é uma ótima escolha para quem precisa de um sistema de amplificação de baixo confiável, eficiente e de alta qualidade. Ele é fácil de transportar e pode ser usado em uma variedade de configurações, desde ensaios até shows ao vivo.",
+                      "componentes": [
+                          {
+                              "nome": "BAS400",
+                              "caracteristicas_tecnicas": {
+                                  "modelo": "BAS-400",
+                                  "potencia": "400 W (4 Ohms)",
+                                  "canais_de_entrada": "02, sendo: (1) HIGH: P10 (Contra Baixo Passivo), (2) LOW: P10 (Contra Baixo Ativo)",
+                                  "sensibilidade_de_entrada": "LOW e HIGH",
+                                  "canais_de_saida": "03, sendo: (1) PHONE: Fone de Ouvido (P10 STEREO), (2) LINEOUT: XLR Balanceada, (3) Caixa Passiva: 01 SPEAKON (BAS-4X10 ou BAS-1X15 DATREL) no painel traseiro",
+                                  "equalizacao_ativa": "03 Vias, sendo: (1) LOW; MID e HIGH",
+                                  "dimensoes_aproximadas": {
+                                      "produto": "8,8 x 48,5 x 31 cm",
+                                      "embalagem": "11 x 52 x 36 cm"
+                                  },
+                                  "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                                  "padrao_de_fabrica": "pré-ajustado em 220V",
+                                  "peso": {
+                                      "liquido": "6 Kg",
+                                      "bruto": "6,6 Kg"
+                                  }
+                              }
+                          },
+                          {
+                              "nome": "BAS-4X10",
+                              "caracteristicas_tecnicas": {
+                                  "modelo": "BAS-4X10",
+                                  "potencia": "400 W",
+                                  "alto_falante": "04 x 10\" (8 Ohms) Cone Alumínio",
+                                  "entrada": "SPEAKON (8 Ohms)",
+                                  "tela_metalica_de_protecao_frontal": true,
+                                  "dimensoes_aproximadas": {
+                                      "produto": "61 x 65 x 60 cm",
+                                      "embalagem": "63 x 66 x 61 cm"
+                                  },
+                                  "peso": {
+                                      "liquido": "23,5 Kg",
+                                      "bruto": "24,7 Kg"
+                                  }
+                              }
+                          }
+                      ]
+                  },
+                  {
+                      "nome_kit": "Kit HDSD700 + DA 15300",
+                      "descricao": "O KIT HDSD-700 de 350W da DATREL é ideal para conectar instrumentos musicais ou ouvir aquela música que tanto gosta. O Amplificador HDSD-700 dispensa o uso de outros meios de amplificação ou pré-amplificadores, conta com saída para 02 caixas acústicas, possui entradas para Guitarra, teclado, DVD, PC, Microfones, Smartphones com fio ou sem fio via conexão Bluetooth com controle remoto, Smart TVs (desde que disponível conexão Bluetooth, para saber consulte manual de instruções da sua TV), o HDSD-700 é perfeito para seus eventos. Junto com o cabeçote vem as Caixa acústica DA 15.300 que forma esse kit sensacional. A DA15.300 é equipada com driver titânio de altíssima qualidade, que proporciona uma ampla resposta de frequência seja qual for a sua aplicação, indicada para o uso nos mais variados amplificadores, sistemas de PA, retorno de palco, monitoração e som ambiente. A caixa da Datrel DA-15.300, conta com uma reprodução sonora mais nítida e potente, alta eficiência sonora, proporcionando um som limpo, preciso e equilibrado. A frequência de resposta vai de 60 a 19kHz.",
+                      "componentes": [
+                          {
+                              "nome": "HDSD700",
+                              "caracteristicas_tecnicas": {
+                                  "modelo": "HDSD-700",
+                                  "potencia": "350 W RMS (4 Ohms)",
+                                  "impedancia": "04, 08 ou 16 Ohms",
+                                  "canais_de_entrada": "02, sendo: (1) HIGH: P10 (Contra Baixo Passivo), (2) LOW: P10 (Contra Baixo Ativo)",
+                                  "sensibilidade_de_entrada": "LOW e HIGH",
+                                  "canais_de_saida": "03, sendo: (1) PHONE: Fone de Ouvido (P10 STEREO), (2) LINEOUT: XLR Balanceada, (3) Caixa Passiva: 01 SPEAKON (BAS-4X10 ou BAS-1X15 DATREL) no painel traseiro",
+                                  "equalizacao_ativa": "03 Vias, sendo: (1) LOW; MID e HIGH",
+                                  "dimensoes_aproximadas": {
+                                      "produto": "8,8 x 48,5 x 31 cm",
+                                      "embalagem": "11 x 52 x 36 cm"
+                                  },
+                                  "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                                  "padrao_de_fabrica": "pré-ajustado em 220V",
+                                  "peso": {
+                                      "liquido": "6,8 Kg",
+                                      "bruto": "7,4 Kg"
+                                  }
+                              }
+                          },
+                          {
+                              "nome": "DA 15300",
+                              "caracteristicas_tecnicas": {
+                                  "modelo": "DA-15.300",
+                                  "potencia": "300 W RMS (8 Ohms)",
+                                  "alto_falante": "01 x 15\" (8 Ohms) Cone Alumínio",
+                                  "entrada": "SPEAKON (8 Ohms)",
+                                  "tela_metalica_de_protecao_frontal": true,
+                                  "dimensoes_aproximadas": {
+                                      "produto": "61 x 65 x 60 cm",
+                                      "embalagem": "63 x 66 x 61 cm"
+                                  },
+                                  "peso": {
+                                      "liquido": "23,5 Kg",
+                                      "bruto": "24,7 Kg"
+                                  }
+                              }
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+            "monitores_retornos": [
+                {
+                    "nome": "Monitor/Retorno de Palco Ativo DATREL AT12-250",
+                    "descricao": "O Monitor de Palco Ativo 12′ 250 Watts MA 12-250, foi desenvolvido para atender as necessidades dos profissionais mais exigentes, imprimindo som potente e com qualidade. Ideal para ser utilizado em estúdios de gravações ou apresentações no palco, esse modelo possui falante de12 polegadas e atinge potencia máxima de 250 Watts RMS. Conta com designe discreto, possui tela metálica frontal, que protege o equipamento, garantindo maior durabilidade. Dispõe de equalização em 3 vias, divisor de frequência de 1 via, Canais de Line e Microfone P10 independentes, saída line out XLR e escrava P10 8 Ohms.",
+                    "caracteristicas_tecnicas": {
+                        "modelo": "AT12-250 Monitor",
+                        "versoes": "Normal ou Bluetooth (Acompanha Controle Remoto do Modulo)",
+                        "potencia": "250 W",
+                        "alto_falante": "12\" e TWEETER ou Driver Titânio",
+                        "sistema_2_em_1": "Pedestal ou Retorno",
+                        "impedancia_de_entrada": "LINE: 5K Ohms, MIC: 200-600 Ohms",
+                        "equalizacao_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+                        "divisor_de_frequencia": "01 via",
+                        "canais_de_entrada": "02, sendo: (1) LINE (P10) e (2) Microfone (P10)",
+                        "controle_de_volume": "USB/Sinal e Microfone",
+                        "canais_de_saida": "02, sendo: (1) LINEOUT (XLR) e (2) Caixa Passiva 8 Ohms (P10)",
+                        "tela_metalica_de_protecao_frontal": true,
+                        "suporte_para_pedestal": true,
+                        "dimensoes_aproximadas": {
+                            "produto": "56,5 x 40,5 x 40,5 cm",
+                            "embalagem": "58 x 42 x 42 cm"
+                        },
+                        "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                        "padrao_de_fabrica": "pré-ajustado em 220V",
+                        "peso": {
+                            "liquido": "15 Kg",
+                            "bruto": "16,1 Kg"
+                        }
+                    }
+                },
+                {
+                    "nome": "Monitor/Retorno de Palco Passivo DATREL MP12-250",
+                    "descricao": "A Caixa Retorno MP 12-250 da Datrel, atinge incríveis 250 Watts de potência e possui alto-falante de 12 polegadas, perfeito para ser utilizada em redes de sonorização, em eventos de porte pequeno, médio e grande, como auditórios, eventos, igrejas, shows e bares. Conta com 2 saídas P10, design compacto e versátil, além de possuir furação (base) para encaixe de tripé e alça de transporte.",
+                    "caracteristicas_tecnicas": {
+                        "modelo": "MP12-250",
+                        "potencia": "250 W",
+                        "alto_falante": "12\" e TWEETER",
+                        "sistema_2_em_1": "Pedestal ou Retorno",
+                        "divisor_de_frequencia": "01 via",
+                        "canais_de_entrada": "02 x P10 (8 Ohms)",
+                        "tela_metalica_de_protecao_frontal": true,
+                        "suporte_para_pedestal": true,
+                        "dimensoes_aproximadas": {
+                            "produto": "56,5 x 40,5 x 40,5 cm",
+                            "embalagem": "56,5 x 40,5 x 40,5 cm"
+                        },
+                        "peso": {
+                            "liquido": "12,3 Kg",
+                            "bruto": "12,3 Kg"
+                        }
+                    }
+                },
+                {
+                    "nome": "Monitor/Retorno de Palco Passivo DATREL MP10-200",
+                    "descricao": "A Caixa de Som Monitor Retorno Palco Passiva 10″ 200w MP10-200 da Datrel é uma caixa de som profissional projetado para oferecer qualidade sonora excepcional em ambientes de palco e estúdio. Com uma potência de 200 watts, essa caixa de som passiva possui um alto-falante de 10 polegadas que proporciona uma reprodução de áudio clara e nítida, abrangendo uma ampla faixa de frequências para atender às necessidades de músicos e artistas. Seu design robusto e durável produzido em madeira MDF garante que ela possa resistir ao uso intenso em ambientes de apresentações ao vivo, enquanto sua construção cuidadosamente projetada minimiza as interferências e distorções indesejadas. A caixa de som monitor MP10-200 é especialmente concebida para funcionar como um retorno de palco, permitindo que os músicos ou vocalistas ouçam o som de maneira precisa e detalhada durante suas apresentações, contribuindo para um desempenho musical excepcional. Os recursos adicionais, como entradas e saídas de áudio bem configuradas, facilitam a integração com outros equipamentos de som e sistemas de amplificação. Seja para uso em palcos, igrejas, bares, cultos, estúdios de gravação ou ambientes de ensaio, a Caixa de Som Monitor Retorno Palco Passiva 10″ 200w MP10-200 Datrel se destaca como uma escolha confiável e de alta qualidade para aprimorar a experiência auditiva dos artistas e garantir um som excepcional em qualquer cenário musical.",
+                    "caracteristicas_tecnicas": {
+                        "modelo": "MP10-200",
+                        "potencia": "200 W",
+                        "alto_falante": "10\" e TWEETER",
+                        "sistema_2_em_1": "Pedestal ou Retorno",
+                        "divisor_de_frequencia": "01 via",
+                        "canais_de_entrada": "02 x P10 (8 Ohms)",
+                        "tela_metalica_de_protecao_frontal": true,
+                        "suporte_para_pedestal": true,
+                        "dimensoes_aproximadas": {
+                            "produto": "46 x 32,5 x 33,5 cm",
+                            "embalagem": "48 x 34 x 35 cm"
+                        },
+                        "peso": {
+                            "liquido": "7,4 Kg",
+                            "bruto": "8,2 Kg"
+                        }
+                    }
+                },
+                {
+                    "nome": "Monitor/Retorno de Palco Ativo DATREL AT10-200",
+                    "descricao": "A Caixa Retorno Ativa 10″ 200W MA10-200 da Datrel é um equipamento de áudio de alta qualidade projetada para oferecer uma experiência sonora excepcional em ambientes de palco, estúdios e apresentações ao vivo. Com sua potência de 200 watts, essa caixa ativa é capaz de fornecer um som nítido, claro e poderoso, adequado para uma variedade de aplicações musicais e de entretenimento. O design compacto da Caixa Acústica a torna uma escolha ideal para músicos, bandas e artistas que buscam um retorno de palco eficaz. Seu alto-falante de 10 polegadas é otimizado para reproduzir frequências médias com precisão, garantindo uma reprodução sonora balanceada e envolvente. Além disso, a caixa é equipada com um driver de ótima qualidade para reproduzir agudos detalhados. Uma característica notável da Caixa de Som MA10-200 é a sua capacidade de atuar como uma unidade ativa principal para alimentar outra caixa passiva de mesma potência. Isso proporciona uma configuração flexível, permitindo que você expanda seu sistema de som de acordo com suas necessidades. Ao conectar uma caixa passiva compatível com a mesma potência, você pode criar um sistema de som estéreo ou ampliar a cobertura sonora do palco, garantindo uma experiência de audição imersiva para o público. Além disso, a Caixa de Som MA10-200 apresenta controles de equalização integrados, permitindo ajustar o som de acordo com as preferências e o ambiente acústico. Seu gabinete durável e resistente em madeira MDF protege os componentes internos, tornando-a adequada para uso em apresentações ao vivo onde a durabilidade é essencial.",
+                    "caracteristicas_tecnicas": {
+                        "modelo": "AT10-200 Monitor",
+                        "versoes": [
+                            "Normal",
+                            "Pop"
+                        ],
+                        "potencia": "200 W",
+                        "alto_falante": "10\" e TWEETER",
+                        "impedancia_de_entrada": "LINE e MIC",
+                        "equalizacao_ativa": "03 vias, sendo: Agudo, Médio e Grave",
+                        "divisor_de_frequencia": "01 via",
+                        "canais_de_entrada": [
+                            "(1) LINE (P10)",
+                            "(2) Auxiliar (RCA)",
+                            "(3) Microfone (P10)"
+                        ],
+                        "controle_de_volume": "Geral e Independente (por canal)",
+                        "canais_de_saida": [
+                            "(1) LINEOUT (P10)",
+                            "(2) Caixa Passiva 8 Ohms (P10)"
+                        ],
+                        "tela_metalica_de_protecao_frontal": true,
+                        "suporte_para_pedestal": true,
+                        "dimensoes_aproximadas": {
+                            "produto": "46 x 32,5 x 33,5 cm",
+                            "embalagem": "49 x 34 x 35 cm"
+                        },
+                        "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                        "padrao_de_fabrica": "pré-ajustado em 220V",
+                        "peso": {
+                            "liquido": "10,9 Kg",
+                            "bruto": "11,7 Kg"
+                        }
+                    }
+                }
+            ]
+        },
+        [
+          {
+              "nome": "Régua de Tomada DA-5.000",
+              "descricao": "A RÉGUA DE TOMADA DA-5000 oferece uma potência de 5000 Watts e possui uma alta proteção de disjuntor de segurança. Ele vem com um suporte de fixação para facilitar a instalação.\n\nO disjuntor incluso é de 32A, proporcionando proteção adequada para o equipamento.\n\nA Régua conta com 8 tomadas de saída e 1 tomada de serviço, permitindo que você conecte vários dispositivos simultaneamente. As tomadas de saída possuem capacidade de até 20A cada e estão dispostas na vertical, o que facilita a organização dos cabos e evita emaranhados.\n\nCom a RÉGUA DE TOMADA DA-5000, você terá um sistema seguro e eficiente para alimentar seus dispositivos elétricos.",
+              "caracteristicas_tecnicas": {
+                  "modelo": "DA-5.000",
+                  "padrao_rack": "DA-5.000",
+                  "amperagem_disjuntor": "32 A",
+                  "tomadas_saida": 8,
+                  "tomada_servico": 1,
+                  "potencia_110v": "3200 W",
+                  "potencia_220v": "5600 W",
+                  "dimensoes_aproximadas": {
+                      "produto": "5,7 x 48,26 x 42,9 x 12,3 cm",
+                      "embalagem": "8 x 55 x 20 cm"
+                  },
+                  "indicador_tensao": "110/220 Volts (por leds)",
+                  "peso": {
+                      "liquido": "1,8 Kg",
+                      "bruto": "2,1 Kg"
+                  }
+              }
+          },
+          {
+              "nome": "Régua de Tomada DA-4.000",
+              "descricao": "A RÉGUA DE TOMADA DA-4000 oferece uma potência em 127V de 4000 Watts e em 220v 4.400 Watts, possui uma alta proteção de disjuntor de segurança. Ele vem com um suporte de fixação para facilitar a instalação.\n\nO disjuntor incluso é de 25A, proporcionando proteção adequada para o equipamento.\n\nA Régua conta com 8 tomadas de saída e 1 tomada de serviço, permitindo que você conecte vários dispositivos simultaneamente. As tomadas de saída possuem capacidade de até 20A cada e estão dispostas na vertical, o que facilita a organização dos cabos e evita emaranhados.\n\nCom a RÉGUA DE TOMADA DA-4000, você terá um sistema seguro e eficiente para alimentar seus dispositivos elétricos.",
+              "caracteristicas_tecnicas": {
+                  "modelo": "DA-4.000",
+                  "padrao_rack": "19”",
+                  "amperagem_disjuntor": "25 A",
+                  "tomadas_saida": 8,
+                  "tomada_servico": 1,
+                  "potencia_110v": "2500 W",
+                  "potencia_220v": "4400 W",
+                  "dimensoes_aproximadas": {
+                      "produto": "5,7 x 48,26 x 42,9 x 12,3 cm",
+                      "embalagem": "8 x 55 x 20 cm"
+                  },
+                  "indicador_tensao": "110/220 Volts (por leds)",
+                  "peso": {
+                      "liquido": "1,8 Kg",
+                      "bruto": "2,1 Kg"
+                  }
+              }
+          },
+          [
+            {
+                "nome": "Caixa Subwoofer Ativo DATREL SWA-400",
+                "descricao": "Um sistema de som super profissional é equilibrado entre agudos, médios e graves, mas é geralmente o Subwoofer responsável pelas frequências mais baixas, foi nessa regra que a DATREL desenvolveu o SWA-400, um moderníssimo Subwoofer Ativo de 15 polegadas e 400W de potência. O SWA-400 tem ajuste de ganho e frequência, com resposta de trabalho de 30Hz a 300Hz, saída para caixa escrava 8 Ohms, conta com alça lateral para transporte e suporte para pedestal. SWA-400 o Subwoofer de quem gosta de potência e graves impactantes. Reproduza suas músicas com impacto e qualidade que só a DATREL tem!",
+                "caracteristicas_tecnicas": {
+                    "modelo": "SWA-400",
+                    "potencia": "400 W",
+                    "alto_falante": "15\" (8 Ohms)",
+                    "impedancia_entrada": "LINE: 5K Ohms",
+                    "sensibilidade_entrada": "LINE: 500 mV",
+                    "canais_entrada": "LINE (P10)",
+                    "canais_saida": "Saída Escrava 8 Ohms (P10)",
+                    "tela_protecao": true,
+                    "suporte_pedestal": true,
+                    "dimensoes_produto": {
+                        "altura": "62 cm",
+                        "largura": "50 cm",
+                        "profundidade": "60 cm"
+                    },
+                    "dimensoes_embalagem": {
+                        "altura": "64 cm",
+                        "largura": "53 cm",
+                        "profundidade": "62 cm"
+                    },
+                    "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                    "peso_liquido": "36 Kg",
+                    "peso_bruto": "37,8 Kg"
+                }
+            },
+            {
+                "nome": "Caixa Subwoofer Passivo DATREL SW-400",
+                "descricao": "O SW-400 DATREL, Subwoofer Passivo AF de 15 polegadas e 400W de potência, desenvolvido para ser usado preferencialmente em conjunto com o Subwoofer Ativo SWA400, mas suas características proporcionam uma usabilidade excelente em amplificadores de potência, cabeçotes ou como você preferir, desde que seja aplicado potência e cortes necessários para extrair o máximo rendimento do Subwoofer. O SW400 é indispensável na composição de um sistema de som, com resposta de frequência de 30Hz até 300Hz. O SW400 conta com alça lateral para transporte e suporte para pedestal. SW400 DATREL, com ele seus graves é garantido!",
+                "caracteristicas_tecnicas": {
+                    "modelo": "SW-400",
+                    "potencia": "400 W",
+                    "alto_falante": "15\" (8 Ohms)",
+                    "canais_entrada": "SPEAKON (8 Ohms)",
+                    "tela_protecao": true,
+                    "suporte_pedestal": true,
+                    "dimensoes_produto": {
+                        "altura": "62 cm",
+                        "largura": "50 cm",
+                        "profundidade": "60 cm"
+                    },
+                    "dimensoes_embalagem": {
+                        "altura": "64 cm",
+                        "largura": "53 cm",
+                        "profundidade": "62 cm"
+                    },
+                    "peso_liquido": "28,7 Kg",
+                    "peso_bruto": "30,5 Kg"
+                }
+            },
+            {
+                "nome": "Caixa Subwoofer Ativo DATREL SWA-300",
+                "descricao": "Um sistema de som super profissional é equilibrado entre agudos, médios e graves, mas é geralmente o Subwoofer responsável pelas frequências mais baixas, foi nessa regra que a DATREL desenvolveu o SWA-400, um moderníssimo Subwoofer Ativo de 15 polegadas e 400W de potência. O SWA-400 tem ajuste de ganho e frequência, com resposta de trabalho de 30Hz a 300Hz, saída para caixa escrava 8 Ohms, conta com alça lateral para transporte e suporte para pedestal. SWA-400 o Subwoofer de quem gosta de potência e graves impactantes. Reproduza suas músicas com impacto e qualidade que só a DATREL tem!",
+                "caracteristicas_tecnicas": {
+                    "modelo": "SWA-300",
+                    "potencia": "300 W",
+                    "alto_falante": "12\" (8 Ohms)",
+                    "impedancia_entrada": "LINE: 5K Ohms",
+                    "sensibilidade_entrada": "LINE: 500 mV",
+                    "canais_entrada": "LINE (P10)",
+                    "canais_saida": "Saída Escrava 8 Ohms (P10)",
+                    "tela_protecao": true,
+                    "suporte_pedestal": true,
+                    "dimensoes_produto": {
+                        "altura": "40 cm",
+                        "largura": "40 cm",
+                        "profundidade": "52 cm"
+                    },
+                    "dimensoes_embalagem": {
+                        "altura": "44 cm",
+                        "largura": "43 cm",
+                        "profundidade": "54 cm"
+                    },
+                    "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                    "peso_liquido": "20,2 Kg",
+                    "peso_bruto": "21,4 Kg"
+                }
+            },
+            {
+                "nome": "Caixa Subwoofer Passivo DATREL SW300",
+                "descricao": "Sub Woofer Passivo SW-300 da Datrel, que proporciona uma maior pureza sonora e incrível clareza dos graves. Com alto falante de 12″ polegadas e 300 Watts de potência, garantem toda a qualidade que seu evento e/ou suas apresentações merecem. O modelo é robusta resistente, essa caixa de som possui gabinete produzido em madeira MDF. Utilizável em Bandas, Shows, Igrejas, Barzinhos. Grave com pureza e clareza sonora. Possui furação (base) para encaixe de Tripé e alça de transporte. Caixa em Madeira MDF.",
+                "caracteristicas_tecnicas": {
+                    "modelo": "SW300",
+                    "potencia": "300 W",
+                    "alto_falante": "12\" (8 Ohms)",
+                    "canais_entrada": "P10 (8 Ohms)",
+                    "tela_protecao": true,
+                    "suporte_pedestal": true,
+                    "dimensoes_produto": {
+                        "altura": "40 cm",
+                        "largura": "40 cm",
+                        "profundidade": "52 cm"
+                    },
+                    "dimensoes_embalagem": {
+                        "altura": "44 cm",
+                        "largura": "43 cm",
+                        "profundidade": "54 cm"
+                    },
+                    "peso_liquido": "16,5 Kg",
+                    "peso_bruto": "17,7 Kg"
+                }
+            },
+            {
+              "nome": "Combo Completo Vertical Line DATREL KSWA300-VOX4.0 + SW300",
+              "descricao": "O modelo KSWA300 é um sistema de som com potência de 300 W e um alto-falante de 12 polegadas com impedância de 8 Ohms. Ele possui entradas e saídas para conexão de dispositivos de áudio, como players ou microfones, com opções de conexão P10 mono e XLR fêmea balanceada. Os controles do subwoofer incluem ajuste de volume e frequência de corte, além de saída para conexão com caixa passiva por meio de uma entrada P10 de 8 Ohms. Já os controles do módulo de voz incluem uma entrada de linha P10, uma entrada de microfone P10 de 8 Ohms e ajustes de graves, médios e agudos. O sistema também possui saídas, incluindo uma saída balanceada XLR para linha e uma saída P10 de 8 Ohms para caixa passiva. Além disso, o alto-falante possui uma tela metálica de proteção frontal e suporte para pedestal. O modelo também é equipado com tecnologia Bluetooth e acompanha controle remoto para o módulo.",
+              "caracteristicas_tecnicas": {
+                "modelo": "KSWA300-VOX4.0",
+                "versoes": "Bluetooth (Acompanha Controle Remoto do Módulo)",
+                "potencia": "300 W",
+                "alto_falante": "12” (8 Ohms)",
+                "impedancia_entrada": "LINE: 5K Ohms",
+                "sensibilidade_entrada": "LINE: 500 mV",
+                "controles_subwoofer": {
+                  "saída_lineout": "XLR (Balanceada)",
+                  "entradas": [
+                    "P10 Mono",
+                    "XLR Fêmea (Balanceada)"
+                  ],
+                  "ajustes": "Volume e FC (Frequência de Corte)",
+                  "saida_slaveout": "P10 (8 Ohms) para caixa passiva"
+                },
+                "controles_vox": {
+                  "entrada_line": "P10",
+                  "entrada_microfone": "P10 (8 Ohms)",
+                  "controle_volume": "Módulo Multimidia e Microfone",
+                  "ajustes": "Grave, Médio e Agudo",
+                  "saidas": [
+                    "LINEOUT: XLR",
+                    "Caixa Passiva: P10 (8 Ohms)"
+                  ]
+                },
+                "tela_protecao": true,
+                "suporte_pedestal": true,
+                "dimensoes_produto": {
+                  "altura": "40 cm",
+                  "largura": "40 cm",
+                  "profundidade": "52 cm"
+                },
+                "dimensoes_embalagem": {
+                  "altura": "44 cm",
+                  "largura": "43 cm",
+                  "profundidade": "54 cm"
+                },
+                "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                "padrao_fabrica": "pré-ajustado em 220V",
+                "peso_liquido": "23 Kg",
+                "peso_bruto": "24,2 Kg"
+              }
+            },
+
+            {
+              "nome": "Combo Completo Vertical Line DATREL KSWA-400 + VOX4.0",
+              "descricao": "O modelo KSWA400 é um sistema de som com potência de 400 W e um alto-falante de 15 polegadas com impedância de 8 Ohms. Ele possui entradas e saídas para conexão de dispositivos de áudio, como players ou microfones, com opções de conexão P10 mono e XLR fêmea balanceada. Os controles do subwoofer incluem ajuste de volume e frequência de corte, além de saída para conexão com caixa passiva por meio de uma entrada P10 de 8 Ohms. Já os controles do módulo de voz incluem uma entrada de linha P10, uma entrada de microfone P10 de 8 Ohms e ajustes de graves, médios e agudos. O sistema também possui saídas, incluindo uma saída balanceada XLR para linha e uma saída P10 de 8 Ohms para caixa passiva. Além disso, o alto-falante possui uma tela metálica de proteção frontal e suporte para pedestal. O modelo também é equipado com tecnologia Bluetooth e acompanha controle remoto para o módulo.",
+              "caracteristicas_tecnicas": {
+                "modelo": "KSWA-400",
+                "versoes": "Bluetooth (Acompanha Controle Remoto do Módulo)",
+                "potencia": "400 W",
+                "alto_falante": "15” (8 Ohms)",
+                "impedancia_entrada": "LINE: 5K Ohms",
+                "sensibilidade_entrada": "LINE: 500 mV",
+                "canais_entrada": [
+                  "01 P10",
+                  "01 XLR Fêmea"
+                ],
+                "canais_saida": [
+                  "Saída Escrava 8 Ohms (P10)",
+                  "01 LINEOUT XRL Macho"
+                ],
+                "dimensoes_produto": {
+                  "altura": "62 cm",
+                  "largura": "50 cm",
+                  "profundidade": "60 cm"
+                },
+                "dimensoes_embalagem": {
+                  "altura": "64 cm",
+                  "largura": "53 cm",
+                  "profundidade": "62 cm"
+                },
+                "rede": "127 / 220 V (via Chave Seletora de Voltagem)",
+                "padrao_fabrica": "pré-ajustado em 220V",
+                "peso_liquido": "36 Kg",
+                "peso_bruto": "37,8 Kg"
+              }
+            }
+            
+        ]
+      ]         
+        ]        
+      ]
+    ]    
+  ] 
+  ] 
+]
+]
+
